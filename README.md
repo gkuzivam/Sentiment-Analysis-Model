@@ -5,6 +5,7 @@ A simple web app which interacts with a deployed recurrent neural network perfor
 
 
 This is the how information flows from the user who enters the review in the web app to the model, which then makes the sentiment analysis.
+
 ![alt text](https://github.com/gkuzivam/Sentiment-Analysis-Model/blob/master/Web%20App%20Diagram.svg)
 
 # Instructions: #
