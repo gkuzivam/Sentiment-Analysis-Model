@@ -1,9 +1,9 @@
 # Sentiment-Analysis-Model
-A simple web app which interacts with a deployed recurrent neural network performing sentiment analysis on movie reviews using Amazon SageMaker.
+A simple web app which interacts with a deployed recurrent neural network performing sentiment analysis on movie reviews using Amazon SageMaker and Pytorch.
 
 ![alt text](https://github.com/gkuzivam/Sentiment-Analysis-Model/blob/master/review.jpg)
 
-#Instructions:
+# Instructions: #
 
 1.Clone/download the repository.
 
@@ -11,7 +11,7 @@ A simple web app which interacts with a deployed recurrent neural network perfor
 
 3.Open index.html and enter a review to determine whether it is positive or negative.
 
-#Project Information
+## Project Information ##
 
 Step 1: Downloading the data
 
